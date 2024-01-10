@@ -57,3 +57,5 @@
 *.gohckcss.com
 *.link
 *.affilimateapis.com
+*.acquisitionsneezeswell.com
+*.blusterflintbig.com
