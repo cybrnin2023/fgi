@@ -59,3 +59,5 @@
 *.affilimateapis.com
 *.acquisitionsneezeswell.com
 *.blusterflintbig.com
+*.specialcraftbox.com
+*.alphaMountain.ai
