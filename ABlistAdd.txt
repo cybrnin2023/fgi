@@ -61,5 +61,5 @@ f.convertkit.com
 216.245.184.86
 mci11.raow.fun
 jxqmwbgxygkyftpxykdk8cfkq1hy371pz.oast.fun
-http://45.227.255.213:20201
-http://68.178.202.116
+45.227.255.213
+68.178.202.116
