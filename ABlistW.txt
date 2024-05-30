@@ -61,3 +61,6 @@
 *.blusterflintbig.com
 *.specialcraftbox.com
 *.alphaMountain.ai
+*.youtube.com
+*.tiktok.com
+*.facebook.com
