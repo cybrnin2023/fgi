@@ -61,4 +61,3 @@
 *.blusterflintbig.com
 *.specialcraftbox.com
 *.alphaMountain.ai
-192.168.68.1
