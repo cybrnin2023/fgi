@@ -61,4 +61,3 @@
 *.blusterflintbig.com
 *.specialcraftbox.com
 *.alphaMountain.ai
-outlook.office365.com
