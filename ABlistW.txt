@@ -61,7 +61,3 @@
 *.blusterflintbig.com
 *.specialcraftbox.com
 *.alphaMountain.ai
-https://outlook.office365.com
-*.outlook.office365.com
-https://lms.pilship.com/opuscntr/SignOn.do?serviceId=LMS
-lms.pilship.com
